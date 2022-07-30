@@ -13,5 +13,5 @@ An app used to track personal expenses. It adds the expenses into a graph contai
 
 ## How The App Looks
 <p align="center">
-  <img src="assets/images/Screenshot_1606896010.png" width="350" title="App Screenshot">
+  <img src="assets/images/Screenshot_1606896010.png" width="350" title="App Layout">
 </p>
